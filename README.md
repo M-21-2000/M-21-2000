@@ -1,19 +1,41 @@
 
-# Welcome Page 👋
+# Hi there, I'm Marouen Ayadi 👋
 
-A clean, responsive welcome/landing page built with plain **HTML + CSS (optional JS)**.  
-Perfect as a lightweight entry screen before navigating to your main app or website.
-
-[![Status](https://img.shields.io/badge/status-stable-brightgreen)](#)
-[![Made with](https://img.shields.io/badge/made%20with-HTML%2FCSS-blue)](#)
-[![License](https://img.shields.io/badge/License-MIT-black.svg)](#license)
+💻 **Programmer | Innovator | Tech Enthusiast**  
+🚀 Always learning, building, and exploring new ideas.  
 
 ---
 
-## ✨ Features
-- Minimal, fast, and mobile-friendly layout
-- Smooth fade-in animation
-- “Get Started” CTA button (customizable link)
-- Easy to brand (colors, fonts, background)
+## 🌟 About Me
+- 🔧 Passionate about **web & mobile development**
+- 🕹️ Love creating **games and interactive apps**
+- 🌍 Founder of [marouen-tech.tn](https://marouen-tech.tn)
+- 📚 Sharing knowledge through projects, tutorials, and workshops
+- ⚡ Active, creative, and always curious to try new technologies
 
-## 📁 Project Structure
+---
+
+## 🔨 Tech Stack
+- **Languages:** HTML, CSS, JavaScript, Python, Node.js  
+- **Frameworks:** Flask, React, Next.js  
+- **Tools:** Git, Docker, VS Code, Android Studio  
+- **Interests:** AI 🤖, Web Apps 🌐, Game Dev 🎮, Security 🔐  
+
+---
+
+## 📊 GitHub Stats
+![Marouen's GitHub stats](https://github-readme-stats.vercel.app/api?username=marouen-tech&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marouen-tech&layout=compact&theme=radical)
+
+---
+
+## 📫 Connect with Me
+- 🌐 Website: [marouen-tech.tn](https://marouen-tech.tn)  
+- 📧 Email: marouenayadi@marouen-tech.tn  
+- 💼 LinkedIn: [linkedin.com/in/marouen-ayadi](#)  
+- 🐦 Twitter/X: [@MarouenAyadi](#)  
+
+---
+
+⭐️ *“Keep moving, keep building, keep innovating.”*  
